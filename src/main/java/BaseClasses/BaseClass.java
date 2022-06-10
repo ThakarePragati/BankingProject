@@ -15,6 +15,7 @@ public class BaseClass {
 	static ExtentHtmlReporter htmlReporter;
 	
 	static ExtentReports report;
+	
 	static ExtentTest test;
 	
 	
