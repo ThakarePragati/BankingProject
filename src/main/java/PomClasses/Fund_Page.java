@@ -26,6 +26,7 @@ public class Fund_Page extends UtilityClass{
 	
 	int a=50;
 	int b=60;
+	int y=50;
 	
 
 	public Fund_Page(WebDriver driver)
