@@ -24,7 +24,7 @@ public class Fund_Page extends UtilityClass{
 	private WebElement depositButton;
 	
 	
-	
+	int a=50;
 	
 	
 
